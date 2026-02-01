@@ -1,4 +1,4 @@
-# 🚗 Car Rental Management System
+# Car Rental Management System
 
 This project is a **simple car rental management application** designed to demonstrate the use of **Domain-Driven Design (DDD)**, **CQRS**, and **Event Sourcing (ES)** using **Spring Boot**.
 
@@ -6,7 +6,7 @@ The goal of this project is not to build a full-featured product, but to showcas
 
 ---
 
-## 🧠 Architecture Overview
+## Architecture Overview
 
 The application follows a **DDD-inspired layered architecture** combined with **CQRS** and **Event Sourcing**.
 
@@ -18,7 +18,7 @@ The application follows a **DDD-inspired layered architecture** combined with **
 
 ---
 
-## 🏗️ Domain Model
+## Domain Model
 
 ### Aggregates
 - **Customer**
@@ -27,7 +27,7 @@ The application follows a **DDD-inspired layered architecture** combined with **
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 - **Java**
 - **Spring Boot**
